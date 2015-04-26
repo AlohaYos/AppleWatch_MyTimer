@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   LastUpgradeVersion = "0620"
+   version = "1.3">
+   <BuildAction
+      parallelizeBuildables = "YES"
+      buildImplicitDependencies = "YES">
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FF96C3211AB65B1A008DF2A2"
+               BuildableName = "MyTimer WatchKit App.app"
+               BlueprintName = "MyTimer WatchKit App"
+               ReferencedContainer = "container:MyTimer.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FF96C2E91AB65A77008DF2A2"
+               BuildableName = "MyTimer.app"
+               BlueprintName = "MyTimer"
+               ReferencedContainer = "container:MyTimer.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+         <BuildActionEntry
+            buildForTesting = "YES"
+            buildForRunning = "YES"
+            buildForProfiling = "YES"
+            buildForArchiving = "YES"
+            buildForAnalyzing = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "FF96C3161AB65B19008DF2A2"
+               BuildableName = "MyTimer WatchKit Extension.appex"
+               BlueprintName = "MyTimer WatchKit Extension"
+               ReferencedContainer = "container:MyTimer.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <TestAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      buildConfiguration = "Debug">
+      <Testables>
+      </Testables>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FF96C3211AB65B1A008DF2A2"
+            BuildableName = "MyTimer WatchKit App.app"
+            BlueprintName = "MyTimer WatchKit App"
+            ReferencedContainer = "container:MyTimer.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </TestAction>
+   <LaunchAction
+      selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
+      selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
+      launchStyle = "0"
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      ignoresPersistentStateOnLaunch = "NO"
+      debugDocumentVersioning = "YES"
+      allowLocationSimulation = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/MyTimer">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FF96C3211AB65B1A008DF2A2"
+            BuildableName = "MyTimer WatchKit App.app"
+            BlueprintName = "MyTimer WatchKit App"
+            ReferencedContainer = "container:MyTimer.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FF96C3211AB65B1A008DF2A2"
+            BuildableName = "MyTimer WatchKit App.app"
+            BlueprintName = "MyTimer WatchKit App"
+            ReferencedContainer = "container:MyTimer.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+      <AdditionalOptions>
+      </AdditionalOptions>
+   </LaunchAction>
+   <ProfileAction
+      shouldUseLaunchSchemeArgsEnv = "YES"
+      savedToolIdentifier = ""
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Release"
+      debugDocumentVersioning = "YES">
+      <RemoteRunnable
+         runnableDebuggingMode = "2"
+         BundleIdentifier = "com.apple.springboard"
+         RemotePath = "/MyTimer">
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FF96C3211AB65B1A008DF2A2"
+            BuildableName = "MyTimer WatchKit App.app"
+            BlueprintName = "MyTimer WatchKit App"
+            ReferencedContainer = "container:MyTimer.xcodeproj">
+         </BuildableReference>
+      </RemoteRunnable>
+      <MacroExpansion>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "FF96C3211AB65B1A008DF2A2"
+            BuildableName = "MyTimer WatchKit App.app"
+            BlueprintName = "MyTimer WatchKit App"
+            ReferencedContainer = "container:MyTimer.xcodeproj">
+         </BuildableReference>
+      </MacroExpansion>
+   </ProfileAction>
+   <AnalyzeAction
+      buildConfiguration = "Debug">
+   </AnalyzeAction>
+   <ArchiveAction
+      buildConfiguration = "Release"
+      revealArchiveInOrganizer = "YES">
+   </ArchiveAction>
+</Scheme>
